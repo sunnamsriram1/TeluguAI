@@ -1,7 +1,7 @@
 # TeluguAI
 తెలుగుఏఐ అనేది తెలుగు భాషపై ప్రత్యేకంగా శిక్షణ పొందిన అధునాతన కృత్రిమ మేధస్సు భాష మోడల్. ఇది తెలుగు భాషా ఇన్‌పుట్‌ను చదవడం, అర్థం చేసుకోవడం మరియు ప్రతిస్పందించడంలో నైపుణ్యం కలిగిస్తుంది.
 ![808-440](https://github.com/sunnamsriram1/TeluguAI/assets/59051820/495cb6e2-d0dc-4c74-95fd-ee9f29950077)
-![TCH36-01-scaled](https://github.com/sunnamsriram1/TeluguAI/assets/59051820/2ce1d3e1-3979-4aee-94ee-36455be8dd3e)
+![artificial-intelligence-in-business-1](https://github.com/sunnamsriram1/TeluguAI/assets/59051820/08867c47-060c-4550-b999-b25b3a5da9de)
 
 ### How to Use:
 
