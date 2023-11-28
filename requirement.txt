@@ -1,1 +1,9 @@
 
+pip install os
+pip install uuid
+pip install SpeechRecognition 
+pip install bardapi
+pip install gTTS
+pip install pygame
+pip install random2
+pip install requests
